@@ -1,5 +1,6 @@
-## Elora-A-Blender-Short-Film
+# Elora-A-Blender-Short-Film
 The files used in making this short film.
 
-# Software used
+## Software used
 Blender 4.0
+Adobe Premiere Pro
